@@ -1,0 +1,11 @@
+Variables: Es un espacio en memoria en el que se guarda información que será usada en un futuro. Pueden ser números, letras, entre otros tipos
+
+String: Es información que no tiene un valor numerico. Es tomado como un texto
+
+Funciones: Cuando una acción se realiza repetidas esta se puede convertir en una función. Para que no se deba explicar la acción varias veces si no que se explica una vez y se le da
+    un indicativo para facilitar las insttrucciones
+
+Declaraciones 'if': Es un evento en el que se evalua una condición que puede ser cierta o falsa, y dependiendo del resultado se realizaran o no algunas instrucciones
+
+Valores booleanos: Es información que tiene solo dos valores verdadero "true" o falso "false" y estos so el resultado de una comparación.
+
