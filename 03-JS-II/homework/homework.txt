@@ -1,0 +1,7 @@
+for: Se usa para realizar una acción varias veces, de forma consecutiva y en una cantidad de veces exacta. Por ejemplo: sumar el número "1" al número "0" diez veces, para dar los números del "0" hasta el "10"
+
+&&: Esta es una indicación que va entre dos condiciones y nos dice que ambas deben ser verdaderas para que el resultado final también sea verdadero.
+
+||: Este indicativo va entre dos condiciones y nos dice que mientras una de las condiciones sea verdadera el resultado final será verdadero.
+
+!: Este simbolo nos revierte el resultado de una condición, es decir que si la condición es verdadera al agregar este simbolo a la condición qu se evalua se convertirá en falso y vice versa. 
