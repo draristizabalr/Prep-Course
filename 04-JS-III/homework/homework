@@ -1,0 +1,6 @@
+Array: El array o arreglo es una agrupación de elementos con cierto tipo de caracteristicas, como por ejemplo: 
+1) Los elementos tienen un numero asociado el cual es el indice con el que se nombran en este grupo. 
+2) Los elementos pueden ser de todo tipo: cadenas, números, funciones, otros arreglos, espacios vacios, entre otros más ...
+3) Los arreglos tienen un nombre para ser identificados.
+4) Los arreglos pueden ser modificados, tanto elemento por elemento como en grupos o totalidad.
+5) También los elementos de un arreglo pueden agregase o removerse, según lo que se necesite.
