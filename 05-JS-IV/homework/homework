@@ -1,0 +1,13 @@
+* Objetos: Es un conjunto de elementos que vienen organizados por un indicativo para cada uno. Estos indicativos pueden ser: palabras, caracteres y números.
+    Lo que pueden guardar estos indicativos en los objetos es cualquier tipo de elemento: números, palabras o frase, caracteres, arreglos, funciones y hasta otros objetos.
+
+* Propiedades: Las propiedades son los indicativos que le agregamos a un objeto para guardar elementos en un espacio determinado del mismo.
+
+* Métodos: Los metodos son funciones que podemos guardar dentro de nuestro objeto para realizar acciones, ya sean para modificar algo dentro del objeto o interactuar con algo del
+    objeto.
+
+* Bucle `for…in`: Es un bucle en el cual se pasa por cada uno de los valores de las propiedades o indicativos de un objeto. Es usado más comunmente para ir por cada una de las
+    propiedades del objeto realizando alguna acción.
+
+* Notación de puntos vs notación de corchetes: Ambas son usadas para hallar el valor de el/los elemento/s de una propiedad.
+    La notación de punto es la más sencilla de usar pero está muy limitada en su uso. Se debe escribir exactamente el nombre de la propiedad en esta notación, no se puden usar variables como nombres de propiedades, en cambio en la notación de corchetes si se pueden usar variables con los nombres de las propiedades para devolver el valor de el/los elemento/s.
