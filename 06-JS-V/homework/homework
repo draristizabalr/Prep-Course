@@ -1,0 +1,3 @@
+`prototype`: Un prototipo es una clase, creadora de objetos, que fué creada con base otra clase o funcion generadora de objetos. Estás comparten las mismas caracteristicas de la clase de la cual fué creada.
+
+* _Constructors_ (de Clases): El constructor es el método de la clase que crea todos las caracteristicas de los objetos creados de la clase: argumentos, metodos, entre otras ...
